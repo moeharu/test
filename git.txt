@@ -4,3 +4,4 @@ gitの練習
 ・git commit
 2つのファイルの変更
 gitstatus
+gitdiff
